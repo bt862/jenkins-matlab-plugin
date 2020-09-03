@@ -1,0 +1,5 @@
+This folder consists of code to analyze difference channels from confocal images.
+
+Files like findblue.m are for merged color files (RGB?) that need to be separated into color channels.
+A better method is to save your confocal images into difference images - one for blue channel, etc so that you may analyze them separately without worrying about spillovers.
+
